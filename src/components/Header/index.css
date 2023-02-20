@@ -1,0 +1,16 @@
+.nav-bar {
+  background-color: #f1f5f9;
+  height: 100px;
+  padding-left: 100px;
+  padding-top: 20px;
+}
+
+.image-link {
+  text-decoration: none;
+}
+
+.website-logo {
+  height: 60px;
+  width: 150px;
+  cursor: pointer;
+}

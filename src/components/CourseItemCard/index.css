@@ -1,0 +1,27 @@
+.course-card {
+  list-style-type: none;
+  width: 300px;
+  height: 130px;
+  display: flex;
+  align-items: center;
+  background-color: transparent;
+  margin-bottom: 30px;
+}
+
+.course-logo {
+  height: 100%;
+  width: 130px;
+  background-size: cover;
+  margin-right: 20px;
+}
+
+.course-name {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.course-link {
+  text-decoration: none;
+}
